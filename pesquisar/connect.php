@@ -7,5 +7,4 @@
 
 	//Tabelas
 	$tab_produto = "produto";
-	$tab_usuario = "usuario_sistema";
  ?>

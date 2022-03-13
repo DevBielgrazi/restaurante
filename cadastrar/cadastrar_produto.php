@@ -21,4 +21,4 @@
 		echo "Produto Cadastrado com Sucesso!";
 	}		
 ?>
-<p><a href="../funcionario.php">Voltar</a>
+<p><a href="../index.html">Voltar</a>
