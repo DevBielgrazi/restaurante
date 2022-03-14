@@ -24,4 +24,4 @@
 		echo"Atualizado com Sucesso!";
 	}		
 ?>
-<p><a href="index.html">Voltar</a>
+<p><a href="../index.html">Voltar</a>
